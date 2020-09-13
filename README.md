@@ -1,13 +1,3 @@
-# DeepMG: Learning to Generate Maps from Trajectories
-
-In this study, we aim to generate a routable road network from trajectories using a deep learning approach.
-
-## Paper
-
-If you find our code useful for your research, please cite our paper:
-
-*Sijie Ruan, Cheng Long, Jie Bao, Chunyang Li, Zisheng Yu, Ruiyuan Li, Yuxuan Liang, Tianfu He, Yu Zheng. "Learning to Generate Maps from Trajectories". AAAI 2020.*
-
 
 ## Geometry Translation
 
